@@ -1,6 +1,6 @@
 # Tech Challenge - Fase 1: ML Engineering (FIAP)
 
-[![Coverage](https://fiap-postech-9mlet-grupo85.github.io/tech-challenge-fase01/coverage.svg)](https://fiap-postech-9mlet-grupo85.github.io/tech-challenge-fase01/)
+[![Coverage](https://brunoabreu0.github.io/tech-challenge-fase01/coverage.svg)](https://brunoabreu0.github.io/tech-challenge-fase01/)
 
 **Curso:** FIAP Pós Tech - Machine Learning Engineering  
 **Turma:** 9MLET  
